@@ -1,1 +1,5 @@
 Hola soy yaritza
+git config --global user.name yaritza 
+
+git config --global user.email yaritzagamboa511gmail.com
+Hola
